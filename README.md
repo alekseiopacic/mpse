@@ -3,8 +3,11 @@ REPLICATION MATERIALS
 #######################
 
 AUTHOR: Aleksei Opacic
+
 PAPER: "Monotonic Path-Specific Effects: Application to Estimating Educational Returns" (https://alekseiopacic.github.io/papers/JASA_ed_decomp_sm_merged.pdf)
+
 UPDATED: 6 August 2024
+
 CONTACT: aopacic@g.harvard.edu
 
 INSTRUCTIONS:
