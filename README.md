@@ -7,7 +7,7 @@ To reproduce table 1 and figure 1, run each of the following files in turn: 01_d
 
 Data files provided are included in the Samples folder. Intermediate output created by 01_dml.R and 02_rwr.R will be saved in the main folder.
 
-Figures and Tables created by R scripts are stored in the Output folder. 
+Figures and Tables created by R scripts will be stored in the Output folder. 
 
 ## Software:
 To run the R files you will need a current version of R. I used version 2023.06.0+421.
